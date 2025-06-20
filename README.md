@@ -48,6 +48,7 @@ android-file-transfer
 android-tools
 bc
 ccache
+ffmpeg
 gperf
 imagemagick
 inetutils
@@ -64,3 +65,11 @@ schedtool
 sndio
 squashfs-tools
 zip
+lib32-ncurses
+lib32-gcc-libs
+lib32-glibc
+lib32-ncurses
+lib32-zlib
+libxcrypt-compat
+libxslt
+glu
