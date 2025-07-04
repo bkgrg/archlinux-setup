@@ -73,3 +73,11 @@ lib32-zlib
 libxcrypt-compat
 libxslt
 glu
+
+
+# Low Latency Mirrors to my location
+## Taiwan
+Server = https://mirror.twds.com.tw/archlinux/$repo/os/$arch
+
+## Singapore
+Server = https://mirror.sg.gs/archlinux/$repo/os/$arch
