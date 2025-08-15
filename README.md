@@ -62,13 +62,12 @@ squashfs-tools
 zip
 lib32-gcc-libs
 lib32-glibc
-libxcrypt-compat
-libxslt
-glu
-
 lib32-readline
 lib32-ncurses
 lib32-zlib
+libxcrypt-compat
+libxslt
+glu
 
 # Low Latency Mirrors to my location
 ## Taiwan
