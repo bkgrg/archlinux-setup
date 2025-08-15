@@ -21,23 +21,19 @@ xorg-xinit
 zram-generator
 
 # Installed apps
+chromium
 git-lfs
 htop
 mousepad
 nano
 noto-fonts
-steam
 telegram
 unzip
 vlc
 
-# Installed AURs
-google-chrome
-
 # Installed DE
 xfce4-panel
 xfce4-pulseaudio-plugin
-xfce4-screenshooter
 xfce4-session
 xfce4-settings
 xfce4-terminal
@@ -52,7 +48,6 @@ ffmpeg
 gperf
 imagemagick
 inetutils
-lib32-readline
 lzop
 meld
 ninja
@@ -65,15 +60,15 @@ schedtool
 sndio
 squashfs-tools
 zip
-lib32-ncurses
 lib32-gcc-libs
 lib32-glibc
-lib32-ncurses
-lib32-zlib
 libxcrypt-compat
 libxslt
 glu
 
+lib32-readline
+lib32-ncurses
+lib32-zlib
 
 # Low Latency Mirrors to my location
 ## Taiwan
