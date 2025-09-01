@@ -24,10 +24,8 @@ zram-generator
 chromium
 git-lfs
 htop
-mousepad
 nano
 noto-fonts
-telegram
 unzip
 vlc
 
@@ -44,6 +42,7 @@ android-file-transfer
 android-tools
 bc
 ccache
+code
 ffmpeg
 gperf
 imagemagick
